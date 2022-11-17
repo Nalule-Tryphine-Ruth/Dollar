@@ -14,3 +14,11 @@ a=20;
 b=10;
 c=5;
 d=1;
+switch(amount){
+   case'a':
+  printf("%d/a");
+  break;
+ 
+  case'b':
+  printf("%d/b");
+  break;
