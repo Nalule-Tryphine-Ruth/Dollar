@@ -26,3 +26,7 @@ switch(amount){
   case'c':
   printf("%d/c");
   break;
+  
+  case'd':
+  printf("%d/d");
+  break;
