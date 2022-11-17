@@ -30,3 +30,10 @@ switch(amount){
   case'd':
   printf("%d/d");
   break;
+  
+  default:
+printf("Invalid enter the above letters");
+break;
+}
+return 0;
+}
