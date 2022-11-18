@@ -24,6 +24,7 @@ switch(amount){
   printf("%d/b");
   break;
 
+//divides entered price with c
   case'c':
   printf("%d/c");
   break;
