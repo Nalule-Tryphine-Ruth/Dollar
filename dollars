@@ -32,7 +32,7 @@ switch(amount){
   case'd':
   printf("%d/d");
   break;
-  
+//ends the switch statement if the above letters are not entered 
   default:
 printf("Invalid enter the above letters");
 break;
