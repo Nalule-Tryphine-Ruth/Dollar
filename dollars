@@ -19,15 +19,16 @@ switch(amount){
    case'a':
   printf("%d/a");
   break;
- 
+//divides entered price with b
   case'b':
   printf("%d/b");
   break;
 
+//divides entered price with c
   case'c':
   printf("%d/c");
   break;
-  
+//divides entered price with d
   case'd':
   printf("%d/d");
   break;
