@@ -6,6 +6,7 @@ int main(){
    int amount;
    printf("Enter amount in US dollars");
    scanf("%d",&amount);
+//initialize
 int a;
 int b;
 int c;
